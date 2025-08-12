@@ -17,32 +17,24 @@ Follow these instructions to get the project running on your local machine.
 
 Prerequisites
 Make sure you have Python 3.8 or newer installed on your system. You can check your Python version with the following command:
-
-Bash
-
 python --version
+
 Installation
 Clone the Repository
 Clone the project to your local machine.
 
-Bash
-
 git clone https://github.com/your-username/Cryptography-Algorithms-Implementation.git
 Navigate to the Project Directory
 
-Bash
 
 cd Cryptography-Algorithms-Implementation
 Install Required Libraries
 The project relies on the cryptography library. Install it using pip.
 
-Bash
-
 pip install cryptography
+
 💻 Usage
 To run the application, execute the main.py script from the root of the project directory.
-
-Bash
 
 python main.py
 Once running, the application will present you with a menu. Simply enter the number corresponding to the operation you wish to perform:
