@@ -4,6 +4,7 @@ Cryptography Algorithms Implementation 🔐
 This project provides a command-line implementation of fundamental cryptographic algorithms in Python. It's designed as an educational tool to demonstrate the core concepts of symmetric encryption (AES), asymmetric encryption (RSA), and cryptographic hashing (SHA-256) through a simple, interactive interface.
 
 ✨ Features
+
 AES (Advanced Encryption Standard): Implements symmetric encryption and decryption for text data.
 
 RSA (Rivest–Shamir–Adleman): Includes key pair generation, asymmetric encryption, and decryption.
