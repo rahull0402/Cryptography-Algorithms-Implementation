@@ -15,5 +15,4 @@ Interactive CLI: A user-friendly menu-driven interface for easy operation.
 
 ⚠️ Disclaimer
 
-
 This project is intended for educational and demonstrational purposes only. The cryptographic implementations provided here are basic and should not be used in production environments or for securing sensitive data. Real-world cryptographic applications require robust key management, secure protocols, and adherence to industry best practices.
